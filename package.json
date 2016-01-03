@@ -17,6 +17,8 @@
   },
   "keywords": [
     "baconjs",
+    "kefir",
+    "flyd",
     "frp",
     "react",
     "jsx",
@@ -33,6 +35,7 @@
     "eslint": "1.6.0",
     "eslint-plugin-react": "3.8.0",
     "faucet": "0.0.1",
+    "flyd": "0.2.0",
     "kefir": "3.1.0",
     "rx": "4.0.6",
     "shelljs": "0.5.3",
